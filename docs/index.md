@@ -6,24 +6,24 @@ To use one, follow [How to add a LAMBDA function to a workbook](how-to-add-a-lam
 
 ## Missing values
 
-| Function | Description | Status |
-| --- | --- | --- |
-| [`IS_NULL_SUM`](IS_NULL_SUM.md) | Counts blank cells in each column | Experimental |
-| [`GET_NULLS`](GET_NULLS.md) | Counts blank cells and one extra missing-value marker in each column | Experimental |
+| Function | Description | 
+| --- | --- | 
+| [`IS_NULL_SUM`](IS_NULL_SUM.md) | Counts blank cells in each column | 
+| [`GET_NULLS`](GET_NULLS.md) | Counts blank cells and one extra missing-value marker in each column | 
 
 ## Survey data preparation
 
-| Function | Description | Status |
-| --- | --- | --- |
-| [`UNIQUE_VALUES`](UNIQUE_VALUES.md) | Lists the distinct values in a range, sorted, with blanks shown as `#N/A` | Experimental |
-| [`CODE_VALUES`](CODE_VALUES.md) | Converts text labels into sequential numerical codes | Experimental |
-| [`CUSTOM_CODE_VALUES`](CUSTOM_CODE_VALUES.md) | Replaces values using two matching lists, to recode or collapse categories | Experimental |
+| Function | Description 
+| --- | --- | 
+| [`UNIQUE_VALUES`](UNIQUE_VALUES.md) | Lists the distinct values in a range, sorted, with blanks shown as `#N/A` | 
+| [`CODE_VALUES`](CODE_VALUES.md) | Converts text labels into sequential numerical codes |
+| [`CUSTOM_CODE_VALUES`](CUSTOM_CODE_VALUES.md) | Replaces values using two matching lists, to recode or collapse categories 
 
 ## Dates and times
 
-| Function | Description | Status |
-| --- | --- | --- |
-| [`FROM_TIMESTAMP`](FROM_TIMESTAMP.md) | Converts a UNIX timestamp into `yyyy-mm-dd hh:mm:ss` text | Experimental |
+| Function | Description |
+| --- | --- | 
+| [`FROM_TIMESTAMP`](FROM_TIMESTAMP.md) | Converts a UNIX timestamp into `yyyy-mm-dd hh:mm:ss` text | 
 
 ## A typical data preparation workflow
 
