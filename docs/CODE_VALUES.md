@@ -88,4 +88,4 @@ See [How to add a LAMBDA function to a workbook](how-to-add-a-lambda.md).
 
 ## See also
 
-[`CUSTOM_CODE_VALUES`](CUSTOM_CODE_VALUES.md), [`UNIQUE_VALUES`](UNIQUE_VALUES.md), `HLOOKUP`
+[`CUSTOM_CODE_VALUES`](CUSTOM_CODE_VALUES.md), [`UNIQUE_VALUES`](UNIQUE_VALUES.md), [`HLOOKUP`](https://support.microsoft.com/en-us/excel/functions/hlookup-function)

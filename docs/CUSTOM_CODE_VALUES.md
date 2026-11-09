@@ -92,4 +92,4 @@ See [How to add a LAMBDA function to a workbook](how-to-add-a-lambda.md).
 
 ## See also
 
-[`CODE_VALUES`](CODE_VALUES.md), `HLOOKUP`, `TEXTSPLIT`
+[`CODE_VALUES`](CODE_VALUES.md), [`HLOOKUP`](https://support.microsoft.com/en-us/excel/functions/hlookup-function), [`TEXTSPLIT`](https://support.microsoft.com/en-us/excel/functions/textsplit-function)

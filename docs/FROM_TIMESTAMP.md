@@ -77,4 +77,4 @@ There are 86,400 seconds in a day, so the formula splits the timestamp into whol
 
 ## See also
 
-`DATE`, `TIME`, `TEXT`, `MOD`
+[`DATE`](https://support.microsoft.com/en-us/excel/functions/date-function), [`TIME`](https://support.microsoft.com/en-us/excel/functions/time-function), [`TEXT`](https://support.microsoft.com/en-us/excel/functions/text-function), [`MOD`](https://support.microsoft.com/en-us/excel/functions/mod-function), [`TRUNC`](https://support.microsoft.com/en-us/excel/functions/trunc-function)

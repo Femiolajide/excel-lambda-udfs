@@ -71,4 +71,4 @@ See [How to add a LAMBDA function to a workbook](how-to-add-a-lambda.md).
 
 ## See also
 
-[`CODE_VALUES`](CODE_VALUES.md), `UNIQUE`, `TOCOL`
+[`CODE_VALUES`](CODE_VALUES.md), [`UNIQUE`](https://support.microsoft.com/en-us/excel/functions/unique-function), [`TOCOL`](https://support.microsoft.com/en-us/excel/functions/tocol-function)
