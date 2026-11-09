@@ -97,4 +97,4 @@ COUNTBLANK(x)+COUNTIF(x,null_value)
 
 ## See also
 
-[`IS_NULL_SUM`](IS_NULL_SUM.md), `COUNTIF`, `COUNTBLANK`
+[`IS_NULL_SUM`](IS_NULL_SUM.md), [`COUNTIF`]https://support.microsoft.com/en-us/excel/get-started/use-the-countif-function-in-microsoft-excel, [`COUNTBLANK`](https://support.microsoft.com/en-us/excel/functions/countblank-function)
